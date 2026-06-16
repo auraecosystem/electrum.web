@@ -1,6 +1,7 @@
 Recommendation on how to redeem Bitcoin Cash
 ============================================
 
+
 July 31st, 2017.
 
 Electrum is a Bitcoin wallet created by Thomas Voegtlin in 2011.
