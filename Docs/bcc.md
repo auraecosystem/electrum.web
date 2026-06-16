@@ -1,6 +1,7 @@
 Statement regarding Bitcoin Cash and Electrum
 =============================================
 
+
 July 26th, 2017.
 
 Electrum is a Bitcoin wallet created by Thomas Voegtlin in 2011.
